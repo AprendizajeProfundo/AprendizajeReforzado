@@ -1,7 +1,7 @@
 # Aprendizaje Reforzado
 
 - Syllabus
-   -[Syllabus](https://nbviewer.jupyter.org/github/AprendizajeProfundo/AprendizajeReforzado/blob/main/Syllabus/Cuadernos/Syllabus_Aprendizaje_Reforzado.ipynb)
+   - [Syllabus](https://nbviewer.jupyter.org/github/AprendizajeProfundo/AprendizajeReforzado/blob/main/Syllabus/Cuadernos/Syllabus_Aprendizaje_Reforzado.ipynb)
 
 ## Preliminares :books:
 
@@ -23,3 +23,19 @@
    - [Optimzación con torch.autograd](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_05.ipynb)
    - [Entrenamiento de modelos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_06.ipynb)
 
+## Aprendizaje Reforzado :mag_right:
+
+- Preiminares
+   - [Introducción al Aprendizaje Reforzado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
+   - [El problema del bandido multi-brazo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Bandido_Multi_brazo%20.ipynb)
+
+- Q-learning
+   - [Q-Aprendizaje](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
+   - [Q-Aprendizaje con redes neuronales: DQN](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning.ipynb)
+   - [Algortimo doble DQN](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Double_DQN_Learning.ipynb)
+
+- Diferencia temporal
+   - [Algortimos de diferencia temporal](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Time_Diff_QLearning.ipynb)
+ 
+ - Casos de estudio
+   - [Aprendizaje reforzado en videojuegos. Unity](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Unity.ipynb)
