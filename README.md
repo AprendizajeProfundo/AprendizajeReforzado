@@ -31,6 +31,8 @@
    - [Introducción a OpenAI Gym][[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_OpenAI_Gym_Intro.ipynb)
    - [El problema del bandido multi-brazo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Bandido_Multi_brazo%20.ipynb)
 
+- Método de entropía cruzada
+   - [Entropía cruzada con CarPole][[Github]]()https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Metodo_Entropia_Cruzada.ipynb
 - Q-learning
    - [Q-Aprendizaje](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
    - [Q-Aprendizaje con redes neuronales: DQN](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning.ipynb)
